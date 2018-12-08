@@ -15,9 +15,9 @@ you will need FMM(Modmanager): https://cdn.discordapp.com/attachments/3107896042
 
 
 Tools used to create this mod:
-Notepad++ 
-Movetool 
-RealTimeEditor 
+Notepad++,
+Movetool,
+RealTimeEditor
 
 Our MoveTool Data Spreadsheet https://docs.google.com/spreadsheets/d/1dOQBJ1MBXRognXGoEpAQtGGGO_DJA_XMW-yPxj-fVRM
 
@@ -27,8 +27,8 @@ Our MoveTool Data Spreadsheet https://docs.google.com/spreadsheets/d/1dOQBJ1MBXR
 
 Special thanks to
 
-WydD
-ToolAssisted
-Dantarion
-DoctorBearPHD
+WydD,
+ToolAssisted,
+Dantarion,
+DoctorBearPHD,
 lullius
