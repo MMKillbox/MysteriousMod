@@ -1,4 +1,5 @@
 # MysteriousMod
+Mysterious mod Discord: https://discord.gg/g77WMvu
 
 Mysterious Mod is a mod that changes the Gameplay of StreetFighterV and adds new mechanics
 
