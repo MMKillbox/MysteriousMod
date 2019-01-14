@@ -9,7 +9,7 @@ ChangeLog: https://docs.google.com/document/d/1zu0gxy-zOj33Q7X-QlIFLL9NsqyTtwCL3
 You will need FMM: [Fluffy's Mod Manager](https://cdn.discordapp.com/attachments/310789604242489356/431159926480568320/modmanager.rar)
 
 ## Changelog
-Find all the changes here: 
+Find all the changes here: [CHANGELOG](https://docs.google.com/document/d/1zu0gxy-zOj33Q7X-QlIFLL9NsqyTtwCL3VT85E6mJl8)
 
 
 ## Tools used to create this mod
