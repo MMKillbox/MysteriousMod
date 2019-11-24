@@ -1,5 +1,8 @@
 # MysteriousMod
 Mysterious mod Discord: https://discord.gg/g77WMvu
+```
+In the discord i will post a Chara.rar in #later_Changes channel where you can apply the changes i make early to ur version of Mysterious Mod
+```
 
 Mysterious Mod is a mod that changes the Gameplay of StreetFighterV and adds new mechanics
 
