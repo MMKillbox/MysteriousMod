@@ -10,6 +10,15 @@ Mysterious Mod is a mod that changes the Gameplay of StreetFighterV and adds new
 ## HOW TO INSTALL
 You will need FMM: [Fluffy's Mod Manager](https://cdn.discordapp.com/attachments/310789604242489356/431159926480568320/modmanager.rar)
 
+1. put mod folders in "FMM DIRECTORY" \Games\SF5\Mods
+2. Launch Mod manager
+3. Click Define game
+4. Select SF5
+5. click manage mods
+6. click read game archives
+7. enable mods in manage mods tab
+8. play
+
 ## Changelog
 Find all the changes here: [CHANGELOG](https://docs.google.com/document/d/1zu0gxy-zOj33Q7X-QlIFLL9NsqyTtwCL3VT85E6mJl8)
 
