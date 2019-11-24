@@ -17,10 +17,11 @@ Find all the changes here: [CHANGELOG](https://docs.google.com/document/d/1zu0gx
 ## Tools used to create this mod
 Notepad++,
 Movetool,
-RealTimeEditor
-SFVListTool
-SFVCommandList Editor
-SFV Trials Editor
+RealTimeEditor,
+SFVListTool,
+SFVCommandList Editor,
+SFV Trials Editor,
+Blender
 
 ## Our MoveTool Data Spreadsheet: [Link](https://docs.google.com/spreadsheets/d/1dOQBJ1MBXRognXGoEpAQtGGGO_DJA_XMW-yPxj-fVRM)
 ## [SF5/SF4 Moveset Editing Discord](https://discord.gg/T5raMgr)
