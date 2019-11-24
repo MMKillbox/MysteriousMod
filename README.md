@@ -1,5 +1,5 @@
 # MysteriousMod
-Mysterious mod Discord: https://discord.gg/g77WMvu
+[Mysterious mod Discord](https://discord.gg/g77WMvu)
 ```
 In the discord i will post a Chara.rar in #later_Changes channel where you can apply the changes i make early to ur version of Mysterious Mod
 ```
@@ -17,14 +17,32 @@ Find all the changes here: [CHANGELOG](https://docs.google.com/document/d/1zu0gx
 Notepad++,
 Movetool,
 RealTimeEditor
+SFVListTool
+SFVCommandList Editor
+SFV Trials Editor
 
 ## Our MoveTool Data Spreadsheet: [Link](https://docs.google.com/spreadsheets/d/1dOQBJ1MBXRognXGoEpAQtGGGO_DJA_XMW-yPxj-fVRM)
+## [SF5/SF4 Moveset Editing Discord](https://discord.gg/T5raMgr)
 
-
-Special thanks to
+## Special thanks to
 
 WydD,
 ToolAssisted,
 Dantarion,
 DoctorBearPHD,
-lullius
+lullius,
+Ouji,
+AngriestAngryArtist,
+Me,
+Lord_Venom,
+SnuffyChris605,
+Yvespandora,
+JustDylan,
+Chocothunder,
+NewYorksFinestGFX,
+NYsFinestGFX,
+FrameTrapped Tom,
+The Mysterious Mod Community,
+The SFV Modding Community,
+
+
