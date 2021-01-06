@@ -2,6 +2,8 @@
 ## In the making of Mysterious Mod 0$ was made, The only recieved donations(Such as Steam Gifts) went straight to Capcom for the SFV Season Passes and Edition upgrades
 ## Ontop of that i do not accept donations as i feel all mods should be free to use by anyone who wants to do so
 
+## If Capcom wishes for me to stop creating this Mod they can contact(DM) on Twitter at https://twitter.com/Killbawx 
+
 # MysteriousMod
 ## [Mysterious mod Discord](https://discord.gg/g77WMvu)
 ```
