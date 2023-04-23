@@ -1,3 +1,6 @@
+THIS 2023 Build IS A TEST BUILD BUGS ARE BOUND TO BE HERE AND CHANGELOG IS NOT UP TO DATE
+
+
 # ********(NOTE: THIS MOD IS COMPLETELY FREE, AND IS NOT FOR SALE)********
 ## In the making of Mysterious Mod 0$ was made, The only recieved donations(Such as Steam Gifts) went straight to Capcom for the SFV Season Passes and Edition upgrades
 ## Ontop of that i do not accept donations as i feel all mods should be free to use by anyone who wants to do so
